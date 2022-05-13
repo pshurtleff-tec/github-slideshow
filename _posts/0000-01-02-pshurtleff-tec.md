@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+! [This is an image of an octocat](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ---
 
